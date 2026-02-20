@@ -1,5 +1,9 @@
 # Java Calculator 🧮
 
+** Author : Muhammad Mueenuddeen**
+**Github : https://github.com/mhd-1111
+
+
 A modern Java Swing Calculator application with a clean UI and scientific functions.
 
 ## ✨ Features
